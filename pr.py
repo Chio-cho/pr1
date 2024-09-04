@@ -1,4 +1,3 @@
-pr.py
 from PyQt5 import QtWidgets, uic
 from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidgetItem
 from PyQt5.QtCore import Qt
